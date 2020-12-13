@@ -1,22 +1,22 @@
 {
-  "name": "http-server-project",
+  "name": "jmvc",
   "version": "1.0.0",
-  "description": "",
+  "description": "For projects that needs a simple HTTP server built on Node.js.",
   "main": "index.js",
   "scripts": {
-    "serve": "node server.mjs"
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/JamesRobertHugginsNgo/http-server-project.git"
+    "url": "git+https://github.com/JamesRobertHugginsNgo/jmvc.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/JamesRobertHugginsNgo/http-server-project/issues"
+    "url": "https://github.com/JamesRobertHugginsNgo/jmvc/issues"
   },
-  "homepage": "https://github.com/JamesRobertHugginsNgo/http-server-project#readme",
+  "homepage": "https://github.com/JamesRobertHugginsNgo/jmvc#readme",
   "devDependencies": {
     "eslint": "^7.15.0"
   }
